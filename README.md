@@ -35,7 +35,7 @@ Control 4 LEDs using your keyboard or a mobile app! This Arduino project lets yo
 ---
 
 ## 📸 Screenshot
-
+## >> Circuit
 ![LED Commander Screenshot](https://github.com/Ahm3d0x/-LED-Commander-Serial-bluetooth-Connect/blob/main/simple%20bluetooth%20%20Connect.png)
 
 > Make sure to place your image inside a folder called `images` in your repo.
