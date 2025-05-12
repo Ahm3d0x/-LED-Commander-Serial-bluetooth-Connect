@@ -29,7 +29,7 @@ Control 4 LEDs using your keyboard or a mobile app! This Arduino project lets yo
 ### 📱 Software:
 - Arduino IDE
 - (Optional) Serial Bluetooth Terminal app (Android)
-  - Download from Play Store: [https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)
+  - Download from Play Store: [https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control](https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control)
  
 
 ---
